@@ -1,0 +1,20 @@
+
+
+                          Project 12 - Operating System
+                           ----------------------
+
+Submitted Files
+---------------
+README - This file.
+Array.jack - Represents an array.
+Keyboard.jack - A library for handling user input from the keyboard.
+Math.jack - A library of commonly used mathematical functions.
+Memory.jack - Memory operations library.
+Output.jack - A library of functions for writing text on the screen.
+String.jack - Represents character strings.
+Sys.jack -  A library that supports various program execution services.
+Screen.jack - A library of functions for displaying graphics on the screen.
+
+Remarks
+-------
+hurray! we're done!

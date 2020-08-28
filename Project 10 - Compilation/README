@@ -1,0 +1,17 @@
+
+
+                          Project 10 - Compilation
+                           ----------------------
+
+Submitted Files
+---------------
+README - This file.
+JackAnalyzer.py - the class that runs the show - it opens the path and creates a compilation engine for
+                  each jack file in the path
+JackTokenizer - the tokenizer class that takes a given input file and creates tokens from the jack code
+CompilationEngine - the compilation engine compiles the input jack code into an output xml file using a JackTokenizer
+Makefile - a makefile for the JackAnalyzer (a "wrapper")
+JackAnalyzer - this file runs the project.
+
+Remarks
+-------

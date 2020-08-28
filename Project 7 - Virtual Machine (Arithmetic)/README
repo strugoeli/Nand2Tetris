@@ -1,0 +1,18 @@
+gabrielle.mar, strugo
+===============================================================================
+Gabrielle Marmur, ID 312423601, gabriell.marmur@mail.huji.ac.il
+Eliyahu Strugo, ID 305589269, eli.strugo@mail.huji.ac.il
+===============================================================================
+
+                         Project 7 - Virtual Machine (Arithmetic)
+                           ----------------------- 
+
+Submitted Files
+---------------
+README - This file.
+VMTranslator.py - a translator that translates vm files into asm code files
+Makefile - a makefile for the VMTranslator (a "wrapper")
+VMTranslator - this file runs the project.
+
+Remarks
+-------
